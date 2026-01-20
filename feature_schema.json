@@ -1,0 +1,1 @@
+["host", "pid", "ppid", "uid", "user", "exe", "syscall", "dir", "ext", "bytes_written", "perm", "owner", "retval", "is_sensitive_path", "is_backup_path"]
